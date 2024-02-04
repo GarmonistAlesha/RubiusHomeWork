@@ -1,0 +1,14 @@
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\bin\Debug\net7.0\Lession2.exe
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\bin\Debug\net7.0\Lession2.deps.json
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\bin\Debug\net7.0\Lession2.runtimeconfig.json
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\bin\Debug\net7.0\Lession2.dll
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\bin\Debug\net7.0\Lession2.pdb
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.AssemblyInfoInputs.cache
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.AssemblyInfo.cs
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.csproj.CoreCompileInputs.cache
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.dll
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\refint\Lession2.dll
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.pdb
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\Lession2.genruntimeconfig.cache
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\Lession2\Lession2\obj\Debug\net7.0\ref\Lession2.dll
