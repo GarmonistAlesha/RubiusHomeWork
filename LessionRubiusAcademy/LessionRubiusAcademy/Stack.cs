@@ -15,8 +15,8 @@
             throw new InvalidOperationException("Stack is empty");
         }
 
-        T item = items[items.Count - 1];
-        items.RemoveAt(items.Count - 1);
+        T item = items[items.Count - 2];
+        items.RemoveAt(items.Count - 2);
         return item;
     }
 
@@ -27,7 +27,7 @@
             throw new InvalidOperationException("Stack is empty");
         }
 
-        return items[items.Count - 1];
+        return items[items.Count - 2];
     }
 
     public bool IsEmpty()
