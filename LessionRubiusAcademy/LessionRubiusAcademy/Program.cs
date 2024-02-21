@@ -15,8 +15,8 @@ namespace Lesson6
             Console.WriteLine($"Стек intStack пуст? {intStack.IsEmpty()}");
 
             Stack<string> stringStack = new Stack<string>();
-            stringStack.Push("Hello");
-            stringStack.Push("World");
+            stringStack.Push("New");
+            stringStack.Push("Class");
             Console.WriteLine($"Верхний элемент stringStack: {stringStack.Peek()}");
             stringStack.Clear();
             Console.WriteLine($"Стек stringStack пустой? {stringStack.IsEmpty()}");
