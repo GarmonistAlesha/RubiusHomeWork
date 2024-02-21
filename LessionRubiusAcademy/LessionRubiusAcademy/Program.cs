@@ -8,25 +8,28 @@ namespace Lesson6
         {
             
             Stack<int> intStack = new Stack<int>();
-            intStack.Push(1);
-            intStack.Push(2);
-            Console.WriteLine($"Верхний элемент intStack: {intStack.Peek()}");
-            Console.WriteLine($"Удален элемент из intStack: {intStack.Pop()}");
-            Console.WriteLine($"Стек intStack пуст? {intStack.IsEmpty()}");
+            intStack.Push(0);
+            intStack.Push(5);
+            Console.WriteLine($"Стек Stack<int> пуст? {intStack.IsEmpty()}");
+            Console.WriteLine($"Верхний элемент Stack<int>: {intStack.Peek()}");
+            Console.WriteLine($"Удален элемент из Stack<int>: {intStack.Pop()}"); 
+            
 
             Stack<string> stringStack = new Stack<string>();
             stringStack.Push("New");
             stringStack.Push("Class");
-            Console.WriteLine($"Верхний элемент stringStack: {stringStack.Peek()}");
+            Console.WriteLine($"Стек Stack<string> пустой? {stringStack.IsEmpty()}");
+            Console.WriteLine($"Верхний элемент Stack<string>: {stringStack.Peek()}");
             stringStack.Clear();
-            Console.WriteLine($"Стек stringStack пустой? {stringStack.IsEmpty()}");
+            
   
             Stack<double> doubleStack = new Stack<double>();
-            doubleStack.Push(1.1);
-            doubleStack.Push(2.2);
-            Console.WriteLine($"Верхний элемент doubleStack: {doubleStack.Peek()}");
-            Console.WriteLine($"Удален элемент из doubleStack: {doubleStack.Pop()}");
-            Console.WriteLine($"Стек doubleStack пустой? {doubleStack.IsEmpty()}");
+            doubleStack.Push(0.35);
+            doubleStack.Push(0.84);
+            Console.WriteLine($"Стек Stack<double> пустой? {doubleStack.IsEmpty()}");
+            Console.WriteLine($"Верхний элемент Stack<double>: {doubleStack.Peek()}");
+            Console.WriteLine($"Удален элемент из Stack<double>: {doubleStack.Pop()}");
+            
         }
     }
 }
