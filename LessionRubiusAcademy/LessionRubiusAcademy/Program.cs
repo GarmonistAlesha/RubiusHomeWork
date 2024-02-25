@@ -12,7 +12,7 @@
             Console.WriteLine($"Стек Stack<int> пуст? {intStack.IsEmpty()}");
             Console.WriteLine($"Верхний элемент Stack<int>: {intStack.Peek()}");
             Console.WriteLine($"Удален элемент из Stack<int>: {intStack.Pop()}");
-            
+
 
             Stack<string> stringStack = new Stack<string>();
             stringStack.Push("Program");
@@ -20,7 +20,7 @@
             Console.WriteLine($"Стек stringStack пустой? {stringStack.IsEmpty()}");
             Console.WriteLine($"Верхний элемент Stack<string>: {stringStack.Peek()}");
             stringStack.Clear();
-            
+
 
             Stack<double> doubleStack = new Stack<double>();
             doubleStack.Push(1.1);
@@ -28,7 +28,7 @@
             Console.WriteLine($"Стек Stack<double> пустой? {doubleStack.IsEmpty()}");
             Console.WriteLine($"Верхний элемент Stack<double>: {doubleStack.Peek()}");
             Console.WriteLine($"Удален элемент из Stack<double>: {doubleStack.Pop()}");
-            
+
         }
     }
 }

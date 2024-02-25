@@ -1,42 +1,50 @@
-﻿
-public class Stack<T>
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lesson6
 {
-    private List<T> items = new List<T>();
-
-    public void Push(T item)
+    public class Stack<T>
     {
-        items.Add(item);
-    }
+        private List<T> items = new List<T>();
 
-    public T Pop()
-    {
-        if (IsEmpty())
+        public void Push(T item)
         {
-            throw new InvalidOperationException("Stack is empty");
+            items.Add(item);
         }
 
-        T item = items[items.Count - 1];
-        items.RemoveAt(items.Count - 1);
-        return item;
-    }
-
-    public T Peek()
-    {
-        if (IsEmpty())
+        public T Pop()
         {
-            throw new InvalidOperationException("Stack is empty");
+            if (IsEmpty())
+            {
+                throw new InvalidOperationException("Stack is empty");
+            }
+
+            T item = items[items.Count - 1];
+            items.RemoveAt(items.Count - 1);
+            return item;
         }
 
-        return items[items.Count - 1];
-    }
+        public T Peek()
+        {
+            if (IsEmpty())
+            {
+                throw new InvalidOperationException("Stack is empty");
+            }
 
-    public bool IsEmpty()
-    {
-        return items.Count == 0;
-    }
+            return items[items.Count - 1];
+        }
 
-    public void Clear()
-    {
-        items.Clear();
+        public bool IsEmpty()
+        {
+            return items.Count == 0;
+        }
+
+        public void Clear()
+        {
+            items.Clear();
+        }
     }
 }
