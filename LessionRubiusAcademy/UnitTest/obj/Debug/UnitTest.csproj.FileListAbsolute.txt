@@ -1,0 +1,2 @@
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
