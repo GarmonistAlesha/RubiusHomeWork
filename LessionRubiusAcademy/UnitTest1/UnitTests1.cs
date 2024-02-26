@@ -11,24 +11,23 @@ public class UnitTests1
     [Fact]
     public void PushTest()
     {
-        var TestStackPush = new Stack<int>();
-        int StackPush = TestStackPush.Count;
-        var Element = 1;
-        TestStackPush.Push(Element);
-        int NewLengthOfStack = TestStackPush.Count;
-        Assert.Equal(NewLengthOfStack, StackPush + 1);
+        var PushForTest = new Stack<int>();
+        int Push = PushForTest.Count;
+        PushForTest.Push(1);
+        int PushForTest2 = PushForTest.Count;
+        Assert.Equal(++Push, PushForTest2);
+
     }
     [Fact]
     public void PopTest()
     {
-        var TestStackPop = new Stack<int>();
-        TestStackPop.Push(5);
-        TestStackPop.Push(3);
-        int StackPop = TestStackPop.Count;
-        TestStackPop.Pop();
-        int NewLengthOfStack = TestStackPop.Count;
-        Assert.Equal(StackPop, StackPop - 1);
+        var PopForTest = new Stack<int>();
+        PopForTest.Push(6);
+        PopForTest.Push(7);
+        int LengthOfStack = PopForTest.Count;
+        PopForTest.Pop();
+        int NewLengthOfStack = PopForTest.Count;
+        Assert.Equal(NewLengthOfStack, LengthOfStack - 1);
     }
-
 
 }
