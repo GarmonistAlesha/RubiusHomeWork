@@ -1,9 +1,0 @@
-﻿.idea
-bin
-obj
-.nuke/temp
-build.schema.json
-.vs
-docker-compose.override.yaml
-output
-data
