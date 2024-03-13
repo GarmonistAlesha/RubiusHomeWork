@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|c:\\users\\\u043F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u043C\u0438\u0445\u0430\u0438\u043B\\git garmonistalesha\\githubgarmonistalesha\\lessionrubiusacademy\\lessionrubiusacademy\\lessionrubiusacademy\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|solutionrelative:lessionrubiusacademy\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|c:\\users\\\u043F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u043C\u0438\u0445\u0430\u0438\u043B\\git garmonistalesha\\githubgarmonistalesha\\lessionrubiusacademy\\lessionrubiusacademy\\lessionrubiusacademy\\ping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|solutionrelative:lessionrubiusacademy\\ping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|c:\\users\\\u043F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u043C\u0438\u0445\u0430\u0438\u043B\\git garmonistalesha\\githubgarmonistalesha\\lessionrubiusacademy\\lessionrubiusacademy\\lessionrubiusacademy\\pong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3190AD25-138A-4406-8042-0C937A616B9D}|LessionRubiusAcademy\\LessionRubiusAcademy.csproj|solutionrelative:lessionrubiusacademy\\pong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pong.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Pong.cs",
+              "RelativeDocumentMoniker": "LessionRubiusAcademy\\Pong.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Pong.cs",
+              "RelativeToolTip": "LessionRubiusAcademy\\Pong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:00:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Game.cs",
+              "RelativeDocumentMoniker": "LessionRubiusAcademy\\Game.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Game.cs",
+              "RelativeToolTip": "LessionRubiusAcademy\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:59:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ping.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Ping.cs",
+              "RelativeDocumentMoniker": "LessionRubiusAcademy\\Ping.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043D\u043E\u043C\u0430\u0440\u0435\u0432 \u041C\u0438\u0445\u0430\u0438\u043B\\git GarmonistAlesha\\githubGarmonistAlesha\\LessionRubiusAcademy\\LessionRubiusAcademy\\LessionRubiusAcademy\\Ping.cs",
+              "RelativeToolTip": "LessionRubiusAcademy\\Ping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T05:46:51.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
