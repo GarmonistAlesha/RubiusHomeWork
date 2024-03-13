@@ -12,3 +12,4 @@ C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAles
 C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\LessionRubiusAcademy\obj\Debug\net7.0\LessionRubiusAcademy.pdb
 C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\LessionRubiusAcademy\obj\Debug\net7.0\LessionRubiusAcademy.genruntimeconfig.cache
 C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\LessionRubiusAcademy\obj\Debug\net7.0\ref\LessionRubiusAcademy.dll
+C:\Users\Пономарев Михаил\git GarmonistAlesha\githubGarmonistAlesha\LessionRubiusAcademy\LessionRubiusAcademy\LessionRubiusAcademy\obj\Debug\net7.0\LessionRubiusAcademy.sourcelink.json
